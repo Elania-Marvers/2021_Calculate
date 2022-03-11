@@ -1,4 +1,4 @@
 # Calculate
 
-This repository is for calculate project
-Suffer Yann !! Suffer !
+This repository is for calculate project  
+It is a recursive program to calculate a string equation
